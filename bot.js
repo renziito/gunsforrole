@@ -48,8 +48,7 @@ bot.on("message", async message => {
 
     let messageArray = message.content.split(" ");
     let command = messageArray[0];
-    co
-    console.log(command.toLowerCase());
+    command = command.toLowerCase();
     let args = messageArray.slice(1);
 
     if(!command.startsWith(prefix)) return;

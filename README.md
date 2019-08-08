@@ -27,6 +27,7 @@ Weapons
 |FAMAS|famas|
 |GATLING| gatling|
 |GENERIC SNIPER	|sniper|
+|GROZA| groza|
 |KATANA| katana|
 |NAVAJA| navaja|
 |MACHETE| machete|
