@@ -5,7 +5,9 @@ module.exports.run = async (bot, message, args) => {
   if(!args[0]) return message.reply("Debes ingresar el nombre del arma");
   let guns = JSON.parse(fs.readFileSync("./assets.json"));
   let gun = args[0];
-  console.log(gun);
+
+  if(typeof(guns[gun])=="undefined") return message.reply("No tengo esa arma");
+  
   let name = guns[gun].name;
   let image = guns[gun].image;
   
