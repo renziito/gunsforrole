@@ -1,11 +1,15 @@
 {
   "deagle":{
     "name":"Desert Eagle por $30 000",
-    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F7c46e7bf-0810-443b-a399-8b035d9e634a.jpeg?v=1565279491489"
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F53d89a2c-e809-4a96-8b39-8b332cb6d00b.jpeg?v=1565302916760"
   },
   "sniper" :{
     "name":"Sniper por $150 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fe7f10260-6788-4361-98a1-2a421ec218ec.jpeg?v=1565279489884"
+  },
+  "katana":{
+    "name":"Katana por $10 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2FWhatsApp%20Image%202019-08-08%20at%2015.23.28.jpeg?v=1565302785288"
   },
   "navaja":{
     "name":"Navaja por $10 000",
