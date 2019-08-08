@@ -1,4 +1,12 @@
 {
+  "ak47":{
+    "name":"AK47 por $50 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F8f4c39a0-5f38-4dd7-a28b-5f29f5ed1ce6.jpeg?v=1565304276275"
+  },
+  "awm":{
+    "name":"AWM por $150 000",
+    "image"
+  },
   "bat":{
     "name":"Bat por $5 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F3b3d864f-8301-47e8-9808-2b3f94500f68.jpeg?v=1565303690928"
@@ -19,6 +27,10 @@
     "name":"Desert Eagle por $30 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F53d89a2c-e809-4a96-8b39-8b332cb6d00b.jpeg?v=1565302916760"
   },
+  "famas":{
+    "name":"Famas por $50 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fae9fb339-0507-4aeb-8dfb-cc70213fd12b.jpeg?v=1565303847992"
+  },
   "gatling":{
     "name":"Gatling por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fbf71f974-3eba-431e-b1a5-77ca66007e47.jpeg?v=1565303322391"
@@ -35,17 +47,29 @@
     "name":"Navaja por $10 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fre102-knife-for-camping-hiking-columbia-original-imaf7wznrwwhhhux.jpeg?v=1565285516385"
   },
+  "m18":{
+    "name":"M18 doble cañon por $50 000,
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F75774314-fc39-403a-b5ba-7e0f6cdbaed2.jpeg?v=1565304044139"
+  },
   "m249":{
     "name":"M249 por $50 000",
-    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F87b1a576-28ed-4b6c-aace-fd15a720315f.jpeg?v=1565279488704"
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Faac8b055-5991-4d77-a1ce-abc7aa2c52d2.jpeg?v=1565304131263"
   },
   "m416":{
     "name":"M416 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F6f8718e4-d6a2-4310-b2da-e217c1d41edf.jpeg?v=1565279488373"
   },
   "m4a1":{
-    "name":"M4A1 con Mira termica tactica por $50 000",
-    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F833349d0-3455-4990-ad59-d3d7ded28ba6.jpeg?v=1565279489151"
+    "name":"M4A1 por $50 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fe017058a-7d19-4d40-9aef-1fa935682c3e.jpeg?v=1565304191903"
+  },
+  "m500":{
+    "name":"M500 por $30 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F85d6a5f6-b8fc-4290-bd3a-7468d21d8369.jpeg?v=1565303939108"
+  },
+  "m79":{
+    "name":"M79 por $50 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F0a66c2c3-3bb4-4f89-8387-2a47640a81dc.jpeg?v=1565303989852"
   },
   "mgl40":{
     "name":"MGL40 por $50 000",
@@ -76,9 +100,13 @@
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Feac8d90a-6fb2-420b-94ba-c3b7d09b0cf5.jpeg?v=1565279490138"
   },
   "spas12":{
-    "name":"Spas12 por $50 000"
+    "name":"Spas12 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F9be2f31b-7131-42f6-af65-c973079cfaeb.jpeg?v=1565303618817"
-  }
+  },
+  "svd":{
+    "name":"SVD por $150 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fc593bc2c-c7eb-4223-957b-4eb63afffca9.jpeg?v=1565303819232"
+  },
   "uzi":{
     "name":"UZI por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fba68c873-a34d-4b74-8dab-c079e187bdf9.jpeg?v=1565279488405"
