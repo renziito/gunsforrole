@@ -17,8 +17,20 @@ Weapons
 
 |**Real Name**|**Name to use**  |
 |--|--|
+|AK47| ak47|
+|AWM | awm|
+|BATE| bat|
+|BALLESTA| ballesta|
+|CG15| cg15|
+|PISTOLA DE CURACION| curacion|
 |DESEART EAGLE| deagle|
+|FAMAS|famas|
+|GATLING| gatling|
 |GENERIC SNIPER	|sniper|
+|KATANA| katana|
+|NAVAJA| navaja|
+|MACHETE| machete|
+|M18|m18|
 |M249	|m249|
 |M416	|m416|
 |M4A1	|m4a1|

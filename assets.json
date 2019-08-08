@@ -5,7 +5,7 @@
   },
   "awm":{
     "name":"AWM por $150 000",
-    "image"
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F3eb8b6e9-d702-44c9-9b4a-4c901a878363.jpeg?v=1565304392511"
   },
   "bat":{
     "name":"Bat por $5 000",
@@ -47,8 +47,12 @@
     "name":"Navaja por $10 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fre102-knife-for-camping-hiking-columbia-original-imaf7wznrwwhhhux.jpeg?v=1565285516385"
   },
+  "machete":{
+    "name":"Machete por $10 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F0f467dbf-bb1e-46bd-8565-9da4d2d56683.jpeg?v=1565304556925"
+  },
   "m18":{
-    "name":"M18 doble cañon por $50 000,
+    "name":"M18 doble cañon por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F75774314-fc39-403a-b5ba-7e0f6cdbaed2.jpeg?v=1565304044139"
   },
   "m249":{
@@ -85,15 +89,19 @@
   },
   "mp5":{
     "name":"MP5 por $50 000",
-    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F902a7d69-e244-49ca-8a81-c6f0d9b7896e.jpeg?v=1565279488913"
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F079f1b91-5f3b-4f10-8665-5358463d9e0d.jpeg?v=1565304453981"
   },
   "p90":{
     "name":"P90 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F17d2924e-cdc4-4e50-ba5b-524a67f7100a.jpeg?v=1565303569387"
   },
-  "scarl":{
-    "name":"Scar-L por $50 000",
-    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F00520a6c-58da-4412-b5fa-12a0620e998d.jpeg?v=1565279491024"
+  "sarten":{
+    "name":"Sarten por $10 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fd93b4d0a-43cf-4aa2-a7ca-65158d8aa500.jpeg?v=1565304605862"
+  },
+  "scar":{
+    "name":"Scar por $50 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F766b4316-d7c1-4da0-b6d0-7319c5dfea46.jpeg?v=1565304691838"
   },
   "sk12":{
     "name":"Sk12 por $150 000",
@@ -107,6 +115,10 @@
     "name":"SVD por $150 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fc593bc2c-c7eb-4223-957b-4eb63afffca9.jpeg?v=1565303819232"
   },
+  "ump":{
+    "name":"UMP por $50 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F470be1f2-ec4a-482c-b4dc-39e1e06938c6.jpeg?v=1565304805616"
+  },
   "uzi":{
     "name":"UZI por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fba68c873-a34d-4b74-8dab-c079e187bdf9.jpeg?v=1565279488405"
@@ -114,5 +126,9 @@
   "vector":{
     "name":"Vector por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fa21e2e1b-d04f-4f60-8b4f-ff46d225a2aa.jpeg?v=1565279489434"
+  },
+  "vss":{
+    "name":"VSS por $150 000",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F27dd9af9-37bf-46b2-83ab-21737ae95147.jpeg?v=1565304646842"
   }
 }
