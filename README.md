@@ -1,27 +1,32 @@
-Welcome to Glitch
+
+Guns For Role
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+Bot de discord for getting guns to play in role envieroment
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+![enter image description here](hhttps://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2FStory_act_037.png?v=1565277586969)
 
-Find out more [about Glitch](https://glitch.com/about).
+Commandos
+------------
+PREFIJO  g!
+
+|**Comando**|**Parametro**  |**Resultado** |
+|--|--|--|
+|info |   | Link for Info |
+|get | gun | Give you the weapon|
 
 
-Your Project
+Weapons
 ------------
 
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+* 
 
 
-Made by [Glitch](https://glitch.com/)
+Agregalo a tus servers [por aqui](https://discordapp.com/oauth2/authorize?&client_id=609041334149316608&scope=bot&permissions=523328)
 -------------------
 
-\ ゜o゜)ノ
+
+
+Made by [Renziito](mailto:sepia.aki@gmail.com)
+
+\ ( ゜o゜)ノ
