@@ -3,20 +3,16 @@ const fs = require('fs');
 
 module.exports.run = async (bot, message, args) => {
   if(!args[0]) return message.reply("Debes ingresar el nombre del arma");
-  
-  console.log(args[0]);
-  console.log(guns);
-  
-  return message.reply("Puto perro");
-  
   let guns = JSON.parse(fs.readFileSync("./assets.json"));
-  
-
+  let gun = args[0];
+  console.log(gun);
+  let name = guns[gun].name;
+  let image = guns[gun].image;
   
   let emb = new Discord.RichEmbed()
-  .setAuthor("Tenga su "+args[1])
+  .setAuthor("Tenga su "+name)
   .setColor("RANDOM")
-  .setImage("https://cdn.glitch.com/b9b41fa0-8db5-4aa1-a643-fffac74a54f3%2Ffuera.jpg?v=1564153257875")
+  .setImage(image)
 
   message.channel.send(emb)
 }

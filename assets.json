@@ -1,50 +1,50 @@
 {
-  deagle:{
-    name:"Desert Eagle",
-    image:"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F7c46e7bf-0810-443b-a399-8b035d9e634a.jpeg?v=1565279491489"
+  "deagle":{
+    "name":"Desert Eagle",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F7c46e7bf-0810-443b-a399-8b035d9e634a.jpeg?v=1565279491489"
   },
-  sniper :{
-    name:"",
-    image:""
+  "sniper" :{
+    "name":"",
+    "image":""
   },
-  m249:{
-    name:"",
-    image:""
+  "m249":{
+    "name":"",
+    "image":""
   },
-  m416:{
-    name:"",
-    image:""
+  "m416":{
+    "name":"",
+    "image":""
   },
-  m4a1:{
-    name:"",
-    image:""
+  "m4a1":{
+    "name":"M4a1 con Mira termica tactica",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F833349d0-3455-4990-ad59-d3d7ded28ba6.jpeg?v=1565279489151"
   },
-  muzi:{
-    name:"",
-    image:""
+  "muzi":{
+    "name":"",
+    "image":""
   },
-  mp40:{
-    name:"",
-    image:""
+  "mp40":{
+    "name":"",
+    "image":""
   },
-  mp5:{
-    name:"",
-    image:""
+  "mp5":{
+    "name":"",
+    "image":""
   },
-  scarl:{
-    name:"",
-    image:""
+  "scarl":{
+    "name":"Scar-L",
+    "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F00520a6c-58da-4412-b5fa-12a0620e998d.jpeg?v=1565279491024"
   },
-  sk12:{
-    name:"",
-    image:""
+  "sk12":{
+    "name":"",
+    "image":""
   },
-  uzi:{
-    name:"",
-    image:""
+  "uzi":{
+    "name":"",
+    "image":""
   },
-  vector:{
-    name:"",
-    image:""
+  "vector":{
+    "name":"Vector",
+    "image":""
   }
 }
