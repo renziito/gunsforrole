@@ -21,7 +21,7 @@ Weapons
 
 |**Real Name**|**Name to use**  |
 |--|--|
-|DESEART EAGLE| d-eagle|
+|DESEART EAGLE| deagle|
 |GENERIC SNIPER	|sniper|
 |M249	|m249|
 |M416	|m416|
@@ -29,7 +29,7 @@ Weapons
 |MICROUZI|	muzi|
 |MP40	|mp40|
 |MP5	|mp5|
-|SCAR-L|	scar-l|
+|SCAR-L|	scarl|
 |SK12|	sk12|
 |UZI	|uzi|
 |VECTOR	|vector|
