@@ -34,13 +34,22 @@ Weapons
 |M249	|m249|
 |M416	|m416|
 |M4A1	|m4a1|
+|M40|m40|
+|M500|m500|
+|M79|m79|
+|MGL140|mgl40|
 |MICROUZI|	muzi|
 |MP40	|mp40|
 |MP5	|mp5|
+|P90| p90|
+|SARTEN | sarten|
 |SCAR-L|	scarl|
+|SPAS12| spas12|
 |SK12|	sk12|
+|SVD| svd|
 |UZI	|uzi|
 |VECTOR	|vector|
+|VSS|vss|
 
 
 
