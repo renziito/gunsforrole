@@ -1,11 +1,17 @@
 const Discord = require('discord.js');
+const fs = require('fs');
 
 module.exports.run = async (bot, message, args) => {
-  if(!args) return message.reply("Debes ingresar el nombre del arma");
-  let guns = JSON.parse("/assets.json");
+  if(!args[0]) return message.reply("Debes ingresar el nombre del arma");
   
-  console.log(args);
+  console.log(args[0]);
   console.log(guns);
+  
+  return message.reply("Puto perro");
+  
+  let guns = JSON.parse(fs.readFileSync("./assets.json"));
+  
+
   
   let emb = new Discord.RichEmbed()
   .setAuthor("Tenga su "+args[1])
