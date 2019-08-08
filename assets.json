@@ -1,50 +1,50 @@
 {
   "deagle":{
-    "name":"Desert Eagle",
+    "name":"Desert Eagle por $30 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F7c46e7bf-0810-443b-a399-8b035d9e634a.jpeg?v=1565279491489"
   },
   "sniper" :{
-    "name":"Sniper",
+    "name":"Sniper por $150 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fe7f10260-6788-4361-98a1-2a421ec218ec.jpeg?v=1565279489884"
   },
   "m249":{
-    "name":"M249",
+    "name":"M249 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F87b1a576-28ed-4b6c-aace-fd15a720315f.jpeg?v=1565279488704"
   },
   "m416":{
-    "name":"M416",
+    "name":"M416 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F6f8718e4-d6a2-4310-b2da-e217c1d41edf.jpeg?v=1565279488373"
   },
   "m4a1":{
-    "name":"M4A1 con Mira termica tactica",
+    "name":"M4A1 con Mira termica tactica por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F833349d0-3455-4990-ad59-d3d7ded28ba6.jpeg?v=1565279489151"
   },
   "muzi":{
-    "name":"Micro UZI",
+    "name":"Micro UZI por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F8c5510cf-558d-4dc1-9d01-11d6f171ecec.jpeg?v=1565279488496"
   },
   "mp40":{
-    "name":"MP40",
+    "name":"MP40 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F4a9af890-c239-4723-a04a-d513e42204f5.jpeg?v=1565279491261"
   },
   "mp5":{
-    "name":"MP5",
+    "name":"MP5 por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F902a7d69-e244-49ca-8a81-c6f0d9b7896e.jpeg?v=1565279488913"
   },
   "scarl":{
-    "name":"Scar-L",
+    "name":"Scar-L por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2F00520a6c-58da-4412-b5fa-12a0620e998d.jpeg?v=1565279491024"
   },
   "sk12":{
-    "name":"Sk12",
+    "name":"Sk12 por $150 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Feac8d90a-6fb2-420b-94ba-c3b7d09b0cf5.jpeg?v=1565279490138"
   },
   "uzi":{
-    "name":"UZI",
+    "name":"UZI por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fba68c873-a34d-4b74-8dab-c079e187bdf9.jpeg?v=1565279488405"
   },
   "vector":{
-    "name":"Vector",
+    "name":"Vector por $50 000",
     "image":"https://cdn.glitch.com/8001c8ec-f31b-4e99-a0f8-d2b02a0c3fb2%2Fa21e2e1b-d04f-4f60-8b4f-ff46d225a2aa.jpeg?v=1565279489434"
   }
 }
