@@ -1086,6 +1086,6 @@ shrinkwrapVersion: 3
 specifiers:
   canvas: ^2.6.0
   discord.js: ^11.5.1
-  express: ^4.15.5
+  express: ^4.16.4
   fs: ^0.0.2
   winston: ^3.2.1

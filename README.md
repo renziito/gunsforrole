@@ -54,7 +54,7 @@ Weapons
 
 
 
-Agregalo a tus servers [por aqui](https://discordapp.com/oauth2/authorize?&client_id=609041334149316608&scope=bot&permissions=523328)
+Agregalo a tus servers [por aqui](https://discordapp.com/oauth2/authorize?&client_id=618112849381949460&scope=bot&permissions=523328)
 -------------------
 
 
